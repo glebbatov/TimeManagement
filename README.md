@@ -1,9 +1,10 @@
 <p align="left">
   <img src="https://github.com/glebbatov/TimeManagement/blob/master/icon512.png?" width="125">
-  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.GB.TimeManagement"><h1>SimpleCalculator</h1></a>
+  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.GB.TimeManagement"><h1>Time Management</h1></a>
 <p>
   
 Boost your time management. Effective time tracking is the best way focusing on your productivity, and thinking forward to your goals.
+
 
 App divided into four separate time management fields:
 
@@ -21,10 +22,10 @@ Just enter required time and hit start button. For games, sports, kitchen times,
 
 <p>
 <p align="left">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/1.png" width="250">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/2.png" width="250">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/3.png" width="250">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/4.png" width="250">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/1.png" width="200">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/2.png" width="200">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/3.png" width="200">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/4.png" width="200">
 </p>
 
 # Developed By
