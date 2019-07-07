@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">TimeManagement</string>
+
+  <string name="title_alarm">Alarm</string>
+  <string name="title_sleep_cycles">Sleep Cycles</string>
+  <string name="title_stopwatch">Stopwatch</string>
+  <string name="title_timer">Timer</string>
+</resources>

@@ -1,0 +1,166 @@
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\TM.dll
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\TM.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\com.GB.TimeManagement.apk
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\com.GB.TimeManagement-Signed.apk
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\TM.nuget.stamp
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\libraryimports.cache.stamp
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res.flag
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\TM.csproj.CoreCompileInputs.cache
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\TM.dll
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\TM.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\android\bin\com.GB.TimeManagement.apk
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\layout\activity_main.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\values\dimens.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\values\ic_launcher_background.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\values\strings.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\values\styles.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-hdpi\ic_launcher.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-mdpi\ic_launcher.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\drawable\sleepcycles48.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\layout\fragment_alarm.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\menu\bottom_navigation.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\values\colors..xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\layout\fragment_sleepcycles.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\layout\fragment_stopwatch.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\layout\fragment_timer.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\drawable\bell24.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\drawable\stopwatch48.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\drawable\timer48.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\drawable\alarm48.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\drawable\icon.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\drawable\plus24.png
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\drawable\alarm1.mp3
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\res\layout\fragment_stopwatch_row.xml
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\R.cs.flag
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\R.txt
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\uploadflags.txt
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\Mono.Android.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\mscorlib.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\System.Core.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\System.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\System.Xml.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\System.Net.Http.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\System.Runtime.Serialization.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\System.ServiceModel.Internals.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\Mono.Security.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\linksrc\Mono.Android.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\linksrc\mscorlib.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\linksrc\System.Core.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\linksrc\System.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\linksrc\System.Xml.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\linksrc\System.Net.Http.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\linksrc\System.Runtime.Serialization.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\linksrc\Mono.Security.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\linksrc\TM.dll.mdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\bin\Release\TM.dll.mdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\android\assets\TM.dll.mdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\android\assets\Mono.Android.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\android\assets\Mono.Security.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\android\assets\mscorlib.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\android\assets\System.Core.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\android\assets\System.Net.Http.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\android\assets\System.pdb
+C:\Xamarin\TM\!!Google Play\TM 06-29-19 FINAL\TM\obj\Release\81\android\assets\System.Runtime.Serialization.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\TM.dll
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\TM.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\com.GB.TimeManagement.apk
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\com.GB.TimeManagement-Signed.apk
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\TM.nuget.stamp
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\libraryimports.cache.stamp
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res.flag
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\TM.csproj.CoreCompileInputs.cache
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\TM.dll
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\TM.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\android\bin\com.GB.TimeManagement.apk
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\layout\activity_main.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\values\dimens.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\values\ic_launcher_background.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\values\strings.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\values\styles.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-hdpi\ic_launcher.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-mdpi\ic_launcher.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\layout\fragment_alarm.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\menu\bottom_navigation.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\values\colors..xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\layout\fragment_sleepcycles.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\layout\fragment_stopwatch.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\layout\fragment_timer.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\layout\fragment_stopwatch_row.xml
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\timer96.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\alarm1.mp3
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\alarm48.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\alarm96.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\bell24.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\icon.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\plus24.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\sleepcycles48.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\sleepcycles96.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\stopwatch48.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\stopwatch96.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\res\drawable\timer48.png
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\R.cs.flag
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\R.txt
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\uploadflags.txt
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\Mono.Android.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\mscorlib.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\System.Core.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\System.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\System.Xml.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\System.Net.Http.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\System.Runtime.Serialization.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\System.ServiceModel.Internals.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\Mono.Security.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\Mono.Android.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\mscorlib.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\System.Core.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\System.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\System.Xml.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\System.Net.Http.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\System.Runtime.Serialization.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\Mono.Security.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\TM.dll.mdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\TM.dll.mdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\android\assets\TM.dll.mdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\android\assets\Mono.Android.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\android\assets\Mono.Security.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\android\assets\mscorlib.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\android\assets\System.Core.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\android\assets\System.Net.Http.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\android\assets\System.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\android\assets\System.Runtime.Serialization.pdb
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\bin\Release\TM.dll
+C:\Xamarin\TM\!!Google Play\v.0.2\TM\obj\Release\81\linksrc\TM.dll.mdb

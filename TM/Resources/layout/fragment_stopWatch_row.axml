@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+	android:id="@+id/stopwatchContainer_Row" 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+	android:minWidth="25dp"
+	android:minHeight="25dp">
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Large Text"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:id="@+id/stopWatch_txtRow"/>
+</LinearLayout>

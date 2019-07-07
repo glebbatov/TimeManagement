@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+      android:id="@+id/nav_alarm"
+      android:icon="@drawable/alarm96"
+      android:title="@string/title_alarm"/>
+  <item
+      android:id="@+id/nav_sleep_cycles"
+      android:icon="@drawable/sleepcycles96"
+      android:title="@string/title_sleep_cycles" />
+  <item
+      android:id="@+id/nav_stopwatch"
+      android:icon="@drawable/stopwatch96"
+      android:title="@string/title_stopwatch" />
+  <item
+      android:id="@+id/nav_timer"
+      android:icon="@drawable/timer96"
+      android:title="@string/title_timer" />
+</menu>
