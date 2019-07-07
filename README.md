@@ -21,11 +21,11 @@ Keep track of split/lap time and total time down to 1/10 of a second. Use this f
 Just enter required time and hit start button. For games, sports, kitchen times, speaker's timer in presentations, debates. All you imagine.
 
 <p>
-<p align="left">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/1.png" width="225">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/2.png" width="225">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/3.png" width="225">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/4.png" width="225">
+<p align="center">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/1.png" width="250">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/2.png" width="250">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/3.png" width="250">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/4.png" width="250">
 </p>
 
 # Developed By
