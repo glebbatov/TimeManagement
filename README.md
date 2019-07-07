@@ -22,10 +22,10 @@ Just enter required time and hit start button. For games, sports, kitchen times,
 
 <p>
 <p align="left">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/1.png" width="200">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/2.png" width="200">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/3.png" width="200">
-  <img src="https://github.com/glebbatov/TimeManagement/blob/master/4.png" width="200">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/1.png" width="225">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/2.png" width="225">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/3.png" width="225">
+  <img src="https://github.com/glebbatov/TimeManagement/blob/master/4.png" width="225">
 </p>
 
 # Developed By
