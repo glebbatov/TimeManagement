@@ -20,6 +20,7 @@ Keep track of split/lap time and total time down to 1/10 of a second. Use this f
 
 * Timer
 Just enter required time and hit start button. For games, sports, kitchen times, speaker's timer in presentations, debates. All you imagine.
+#
 
 <p>
 <p align="center">
