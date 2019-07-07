@@ -3,6 +3,9 @@
   <a target="_blank" href="https://play.google.com/store/apps/details?id=com.GB.TimeManagement"><h1>Time Management</h1></a>
   <h3>[Android, C#, Java, Xamarin, XML, Visual Studio]</h3>
 <p>
+
+Google Play:
+https://play.google.com/store/apps/details?id=com.GB.TimeManagement
   
 Boost your time management. Effective time tracking is the best way focusing on your productivity, and thinking forward to your goals.
 
